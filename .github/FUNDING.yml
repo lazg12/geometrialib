@@ -2,9 +2,9 @@
 # @file       FUNDING.yml
 # @brief      Configuración de patrocinio/donaciones oficial de GitHub
 # @author     Luis Zambrano Gahón (ignot)
+# @date       28 de septiembre de 2026
 # ==============================================================================
 
-# github: [ignot-win]
-# ko_fi: ignot
-# patreon: ignot
-custom: ["https://paypal.me/lzambranogahon?locale.x=es_XC&country.x=EC"]
+# Enlace directo de PayPal para patrocinios
+custom:
+  - https://paypal.me/lzambranogahon
